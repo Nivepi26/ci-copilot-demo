@@ -7,7 +7,7 @@ on:
   pull_request:
     branches:
       - main
-
+   Workflow dispatch:
 permissions:
   contents: read
 
